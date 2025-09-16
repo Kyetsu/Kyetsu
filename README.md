@@ -1,4 +1,4 @@
 
 ![ROCKKKK](rock.jpeg)
 
-![teto](teto_kasane.mp4)
+![](teto_kasane.mp4)
