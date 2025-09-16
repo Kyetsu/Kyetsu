@@ -1,7 +1,10 @@
 
 ![ROCKKKK](rock.jpeg)
 
-<center> ![tetooooooo](teto_kasane.gif) </center>
+
+<p align="center">
+  <img width="460" height="300" src="/teto_kasane.gif">
+</p>
 
 <center>Not my video idk where I found it</center>
 
