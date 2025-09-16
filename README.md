@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kyetsu/Kyetsu/refs/heads/deirn/rock.png">
+  <img src="https://raw.githubusercontent.com/Kyetsu/Kyetsu/refs/heads/deirn/rock.jpeg">
 </p>
 <!--
 **Kyetsu/Kyetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
