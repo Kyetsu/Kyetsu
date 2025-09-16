@@ -6,7 +6,9 @@
 
 <p align="center">
   <img width="460" height="300" src="/teto_kasane.gif">
-<figcaption><em><center> Not my video, idk where I found it</center></em></figcaption>
+  <p align="center">
+    <figcaption><em>Not my video, idk where I found it</em></figcaption>
+  </p>
 </p>
 
 
