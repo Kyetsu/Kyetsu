@@ -1,4 +1,6 @@
-## A AERODINAMICA DE UMA VACA EH MELHOR QUE A DE UM JEEP
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kyetsu/Kyetsu/refs/heads/deirn/rock.png">
+</p>
 <!--
 **Kyetsu/Kyetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
